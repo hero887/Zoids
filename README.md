@@ -1,4 +1,4 @@
-Zoids
+ZOIDS
 =====
 
 A Minecraft mod based on the anime show - Zoids!
@@ -6,11 +6,17 @@ A Minecraft mod based on the anime show - Zoids!
 Lead Modeler & Author/Owner -tyrannos23
 Lead Programmer & Co-author/Co-Owner - Hero887
 
+=====================
+SUPPORT & LEARN MORE
+=====================
+
 Help me develop this mod faster by becoming a Patron: http://www.patreon.com/hero887
 
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1288193-w-i-p-zoids-mod
 
-Source code and asset license
+=====================
+SOURCE CODE & LICENSE
+=====================
 
 The project is under the All Rights Reserved license, which means that redistribution is still forbidden. Here are some general rules, and some specific cases for what you can & can't do with the source.
 
