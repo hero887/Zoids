@@ -6,7 +6,6 @@ A Minecraft mod based on the anime show - Zoids!
 Lead Modeler & Author/Owner -tyrannos23
 Lead Programmer & Co-author/Co-Owner - Hero887
 
-=====================
 SUPPORT & LEARN MORE
 =====================
 
@@ -14,7 +13,6 @@ Help me develop this mod faster by becoming a Patron: http://www.patreon.com/her
 
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1288193-w-i-p-zoids-mod
 
-=====================
 SOURCE CODE & LICENSE
 =====================
 
